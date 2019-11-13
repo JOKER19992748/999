@@ -1,4 +1,22 @@
-# TOOLS INI DI BUAT OLEH MR.K7C8NG
-# KALIAN BISA KUNJUNGI SOSMED KAMI ig pranata_pasha
-# TEAM InDoNeSiA CYBER ErRoR SySTem
-# Special Thanks to MR.K7C8NG
+$pkg update 
+
+$pkg upgrade 
+
+$pkg install python2 
+
+$pip2 install mechanize 
+
+$pkg install git 
+
+$git clone https://github.com/joker12/jok
+
+$cd SETAN 
+
+$pip2 install mechanize 
+
+$pip install requests 
+
+$pip2 install requests 
+
+
+$python2 joker.py
