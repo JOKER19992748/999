@@ -8,9 +8,9 @@ $pip2 install mechanize
 
 $pkg install git 
 
-$git clone https://github.com/joker12/jok
+$git clone JOKER19992748
 
-$cd SETAN 
+$cd JOKER
 
 $pip2 install mechanize 
 
